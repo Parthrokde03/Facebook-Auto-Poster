@@ -19,6 +19,7 @@ This project is a Python automation script that logs into Facebook, navigates to
 ## Requirement
 - Download ChromeDriver as per your Chrome version
 - Install selenium
+  
 **To Run you need to use your credentials
 - EMAIL = "your_email_here"
 - PASSWORD = "your_password_here"
